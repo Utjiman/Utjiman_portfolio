@@ -1,5 +1,19 @@
 # AI/System Developer
 
+# AI/System Developer Portfolio
+
+- [About Me](#about-me)
+- [Technical Skills](#technical-skills)
+- [Education](#education)
+- [Courses](#-courses--nbi--handelsakademin-oop23)
+- [Work Experience](#work-experience)
+- [Projects](#projects)
+- [Roles I'm Looking For](#roles-im-looking-for)
+- [Connect With Me](#connect-with-me)
+
+---
+
+
 ## About Me
 
 Hi there! I’m a curious and driven **AI/System Developer** with a knack for solving problems and building creative solutions. I’m currently finishing my studies at **NBI Handelsakademin**, where I’ve been diving deep into object-oriented programming and artificial intelligence. During my internship at **CGI**, I got hands-on experience working with AI-driven projects that tackle real-world challenges.
@@ -27,7 +41,7 @@ Let’s build something amazing together!
 *Object-Oriented Programming with AI Competence*  
 _Expected graduation: Spring 2025_
 
-## 🎓 Courses @ NBI / Handelsakademin OOP23
+## 🎓 Relevant Courses
 
 | Course                                      | Language                  |
 |---------------------------------------------|---------------------------|
@@ -44,10 +58,10 @@ _Expected graduation: Spring 2025_
 | Internship 2                                |                           |
 
 
-## Work Experience
+## Professional Experience
 ### AI Developer Intern @ CGI  
 _October 2024 - December 2024_  
-- Developed AI-driven solutions for Raindance financial system.
+- Designed and implemented a chatbot using RAG to enhance user experience and streamline financial processes.
 - Collaborated with cross-functional teams to create a working gen-ai chatbot.
 
 ---
@@ -55,35 +69,26 @@ _October 2024 - December 2024_
 ## Projects
 ### Chatbot for Business Automation
 - Built a chatbot for a financial system.
-- Leveraged FAISS for efficient data retrieval and NLP.
+- Leveraged FAISS for efficient data retrieval.
 
 ---
 
 ## Roles I'm Looking For:
+I'm looking for roles where I can leverage my skills in AI, programming, and data processing to create impactful solutions.
 
-### Development Roles
-- Developer
-- Full Stack Developer
-
-### Data Science Roles
-- Data Scientist
-- Machine Learning Engineer
-- Data Engineer
-- Business Analyst
-
-### Specialized Roles
-- AI Developer
-- Data Visualization Specialist
-- DevOps Engineer
-- Software Engineer
+- **Development:** Developer, Full Stack Developer, Software Engineer  
+- **Data Science Roles:** Data Scientist, Machine Learning Engineer, Data Engineer  
+- **Specialized:** AI Developer, Data Visualization Specialist, DevOps Engineer
 
 ---
 
 
-### Links
+## Connect With Me
+Feel free to explore my work or connect with me on professional platforms:
 - [GitHub](https://github.com/Utjiman)
 - [LinkedIn](https://www.linkedin.com/in/richard-bod%C3%A9n-585a84130/)
 - [![Download My CV](https://img.shields.io/badge/CV-Download-blue)](https://utjiman.github.io/Utjiman_portfolio/Assets/Richard_Boden_CV.pdf)
+
 
 
 
