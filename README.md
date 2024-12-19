@@ -12,14 +12,19 @@ Let’s build something amazing together!
 
 #### Technical Skills:
 - **Programming:** Python, SQL, C#, Angular
-- **AI & Machine Learning:** TensorFlow, Scikit-Learn, NLP
+- **AI & Machine Learning:** TensorFlow, Scikit-learn, Natural Language Processing (NLP), RAG (Retrieval-Augmented Generation)
+- **Databases:** MySQL, DuckDB
+- **Data Analysis & Processing:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
+- **Tools & Platforms:** Git, FAISS, VS Code, Jupyter Notebooks, Linux
+- **Web Development:** HTML, CSS, JavaScript (basic frontend)
+
 
 ---
 
 ## Education
 **NBI Handelsakademin**  
-*Objektorienterad programmering med AI-kompetens*  
+*Object-Oriented Programming with AI Competence*  
 _Expected graduation: Spring 2025_
 
 ## 🎓 Courses @ NBI / Handelsakademin OOP23
@@ -38,7 +43,6 @@ _Expected graduation: Spring 2025_
 | Thesis                                      | Python                    |
 | Internship 2                                |                           |
 
----
 
 ## Work Experience
 ### AI Developer Intern @ CGI  
