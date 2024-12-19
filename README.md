@@ -1,5 +1,15 @@
 # AI/System Developer
 
+## About Me
+
+Hi there! I’m a curious and driven **AI/System Developer** with a knack for solving problems and building creative solutions. I’m currently finishing my studies at **NBI Handelsakademin**, where I’ve been diving deep into object-oriented programming and artificial intelligence. During my internship at **CGI**, I got hands-on experience working with AI-driven projects that tackle real-world challenges.
+
+I love exploring new technologies, simplifying complex problems, and collaborating with others to create meaningful solutions. When I’m not coding, you can find me cheering for **IFK Göteborg**, playing some golf, or spending time with my family.
+
+Let’s build something amazing together!
+
+
+
 #### Technical Skills:
 - **Programming:** Python, SQL, C#, Angular
 - **AI & Machine Learning:** TensorFlow, Scikit-Learn, NLP
