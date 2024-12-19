@@ -4,16 +4,15 @@
 - [About Me](#about-me)
 - [Technical Skills](#technical-skills)
 - [Education](#education)
-- [Courses](#-courses--nbi--handelsakademin-oop23)
-- [Work Experience](#work-experience)
+- [Relevant Courses](#relevant-courses)
+- [Professional Experience](#professional-experience)
 - [Projects](#projects)
 - [Roles I'm Looking For](#roles-im-looking-for)
 - [Connect With Me](#connect-with-me)
 
 ---
 
-
-## 👋 About Me
+## <a id="about-me"></a>👋 About Me
 
 Hi there! I’m a curious and driven **AI/System Developer** with a knack for solving problems and building creative solutions. I’m currently finishing my studies at **NBI Handelsakademin**, where I’ve been diving deep into object-oriented programming and artificial intelligence. During my internship at **CGI**, I got hands-on experience working with AI-driven projects that tackle real-world challenges.
 
@@ -21,9 +20,9 @@ I love exploring new technologies, simplifying complex problems, and collaborati
 
 Let’s build something amazing together!
 
+---
 
-
-## 🛠️ Technical Skills:
+## <a id="technical-skills"></a>🛠️ Technical Skills:
 - **Programming:** Python, SQL, C#, Angular
 - **AI & Machine Learning:** TensorFlow, Scikit-learn, Natural Language Processing (NLP), RAG (Retrieval-Augmented Generation)
 - **Databases:** MySQL, DuckDB
@@ -32,15 +31,16 @@ Let’s build something amazing together!
 - **Tools & Platforms:** Git, FAISS, VS Code, Jupyter Notebooks, Linux
 - **Web Development:** HTML, CSS, JavaScript (basic frontend)
 
-
 ---
 
-## 🎓 Education
+## <a id="education"></a>🎓 Education
 **NBI Handelsakademin**  
 *Object-Oriented Programming with AI Competence*  
 _Expected graduation: Spring 2025_
 
-## 📚 Relevant Courses
+---
+
+## <a id="relevant-courses"></a>📚 Relevant Courses
 
 | Course                                      | Language                  |
 |---------------------------------------------|---------------------------|
@@ -56,8 +56,9 @@ _Expected graduation: Spring 2025_
 | Thesis                                      | Python                    |
 | Internship 2                                |                           |
 
+---
 
-## 💼 Professional Experience
+## <a id="professional-experience"></a>💼 Professional Experience
 ### AI Developer Intern @ CGI  
 _October 2024 - December 2024_  
 - Designed and implemented a chatbot using RAG to enhance user experience and streamline financial processes.
@@ -65,34 +66,29 @@ _October 2024 - December 2024_
 
 ---
 
-## 🖥️ Projects
-### Chatbot for Business system
+## <a id="projects"></a>🖥️ Projects
+### Chatbot for Business System
 - Built a chatbot for a financial system.
 - Leveraged FAISS for efficient data retrieval.
 
-### Fotball support App (Project TBC)
-- Developing an app dedicated to fotball fans.
+### Fotball Support App (Project TBC)
+- Developing an app dedicated to football fans.
 - Features include historical content, match tables, and a chatbot.
 - Built with Python (Django/FastAPI) and Flutter (planned).
 
 ---
 
-## 🔍 Roles I'm Looking For:
+## <a id="roles-im-looking-for"></a>🔍 Roles I'm Looking For:
 I'm looking for roles where I can leverage my skills in AI, programming, and data processing to create impactful solutions.
 
 - **Development:** Developer, Full Stack Developer, Software Engineer  
 - **Data Science Roles:** Data Scientist, Machine Learning Engineer, Data Engineer  
-- **Specialized:** AI Developer, Data Visualization Specialist, DevOps Engineer
+- **Specialized:** AI Developer, Data Visualization Specialist, DevOps Engineer  
 
 ---
 
-
-## 🌐 Connect With Me
+## <a id="connect-with-me"></a>🌐 Connect With Me
 Feel free to explore my work or connect with me on professional platforms:
 - [GitHub](https://github.com/Utjiman)
 - [LinkedIn](https://www.linkedin.com/in/richard-bod%C3%A9n-585a84130/)
 - [![Download My CV](https://img.shields.io/badge/CV-Download-blue)](https://utjiman.github.io/Utjiman_portfolio/Assets/Richard_Boden_CV.pdf)
-
-
-
-
