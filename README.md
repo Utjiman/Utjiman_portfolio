@@ -1,7 +1,6 @@
-# AI/System Developer
+# 🌟 AI/System Developer Portfolio
 
-# AI/System Developer Portfolio
-
+## 📋 Table of Contents
 - [About Me](#about-me)
 - [Technical Skills](#technical-skills)
 - [Education](#education)
@@ -14,7 +13,7 @@
 ---
 
 
-## About Me
+## 👋 About Me
 
 Hi there! I’m a curious and driven **AI/System Developer** with a knack for solving problems and building creative solutions. I’m currently finishing my studies at **NBI Handelsakademin**, where I’ve been diving deep into object-oriented programming and artificial intelligence. During my internship at **CGI**, I got hands-on experience working with AI-driven projects that tackle real-world challenges.
 
@@ -24,7 +23,7 @@ Let’s build something amazing together!
 
 
 
-#### Technical Skills:
+## 🛠️ Technical Skills:
 - **Programming:** Python, SQL, C#, Angular
 - **AI & Machine Learning:** TensorFlow, Scikit-learn, Natural Language Processing (NLP), RAG (Retrieval-Augmented Generation)
 - **Databases:** MySQL, DuckDB
@@ -36,12 +35,12 @@ Let’s build something amazing together!
 
 ---
 
-## Education
+## 🎓 Education
 **NBI Handelsakademin**  
 *Object-Oriented Programming with AI Competence*  
 _Expected graduation: Spring 2025_
 
-## 🎓 Relevant Courses
+## 📚 Relevant Courses
 
 | Course                                      | Language                  |
 |---------------------------------------------|---------------------------|
@@ -52,13 +51,13 @@ _Expected graduation: Spring 2025_
 | Artificial intelligence 1                   | Python                    |
 | Artificial intelligence 2                   | Python                    |
 | Object-oriented programming advanced 1      | Python, SQL               |
-| Internship 1 CGI                            | Python                    |
+| Internship 1 CGI                            | Python, Angular           |
 | Object-oriented programming advanced 2      | Python                    |
 | Thesis                                      | Python                    |
 | Internship 2                                |                           |
 
 
-## Professional Experience
+## 💼 Professional Experience
 ### AI Developer Intern @ CGI  
 _October 2024 - December 2024_  
 - Designed and implemented a chatbot using RAG to enhance user experience and streamline financial processes.
@@ -66,14 +65,14 @@ _October 2024 - December 2024_
 
 ---
 
-## Projects
+## 🖥️ Projects
 ### Chatbot for Business system
 - Built a chatbot for a financial system.
 - Leveraged FAISS for efficient data retrieval.
 
 ---
 
-## Roles I'm Looking For:
+## 🔍 Roles I'm Looking For:
 I'm looking for roles where I can leverage my skills in AI, programming, and data processing to create impactful solutions.
 
 - **Development:** Developer, Full Stack Developer, Software Engineer  
@@ -83,7 +82,7 @@ I'm looking for roles where I can leverage my skills in AI, programming, and dat
 ---
 
 
-## Connect With Me
+## 🌐 Connect With Me
 Feel free to explore my work or connect with me on professional platforms:
 - [GitHub](https://github.com/Utjiman)
 - [LinkedIn](https://www.linkedin.com/in/richard-bod%C3%A9n-585a84130/)
