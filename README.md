@@ -70,6 +70,11 @@ _October 2024 - December 2024_
 - Built a chatbot for a financial system.
 - Leveraged FAISS for efficient data retrieval.
 
+### Fotball support App (Project TBC)
+- Developing an app dedicated to fotball fans.
+- Features include historical content, match tables, and a chatbot.
+- Built with Python (Django/FastAPI) and Flutter (planned).
+
 ---
 
 ## 🔍 Roles I'm Looking For:
