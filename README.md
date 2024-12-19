@@ -67,7 +67,7 @@ _October 2024 - December 2024_
 ---
 
 ## Projects
-### Chatbot for Business Automation
+### Chatbot for Business system
 - Built a chatbot for a financial system.
 - Leveraged FAISS for efficient data retrieval.
 
