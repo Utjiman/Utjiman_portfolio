@@ -79,5 +79,6 @@ _October 2024 - December 2024_
 ### Links
 - [GitHub](https://github.com/Utjiman)
 - [LinkedIn](https://www.linkedin.com/in/richard-bod%C3%A9n-585a84130/)
-- [Portfolio](https://utjiman.github.io/Utjiman_portfolio/)
-- [![Download My CV](https://img.shields.io/badge/CV-Download-blue)](https://utjiman.github.io/Utjiman_portfolio/assets/Richard_Boden_CV.pdf)
+- [![Download My CV](https://img.shields.io/badge/CV-Download-blue)](https://utjiman.github.io/Utjiman_portfolio/Assets/Richard_Boden_CV.pdf)
+
+
