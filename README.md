@@ -14,7 +14,9 @@
 
 ## <a id="about-me"></a>👋 About Me
 
-Hi there! I’m a curious and driven **AI/System Developer** with a knack for solving problems and building creative solutions. I’m currently finishing my studies at **NBI Handelsakademin**, where I’ve been diving deep into object-oriented programming and artificial intelligence. During my internship at **CGI**, I got hands-on experience working with AI-driven projects that tackle real-world challenges.
+Hi there! I’m a curious and driven **AI/System Developer** with a knack for solving problems and building creative solutions. I’m currently finishing my studies at **NBI Handelsakademin**, where I’ve been focusing on object-oriented programming and artificial intelligence.
+
+My recent thesis explored how metadata impacts chatbot performance in RAG systems, and I’m currently interning as a **Data Engineer at Preem**, working with **Azure Databricks** to model complex business data from different systems.
 
 I love exploring new technologies, simplifying complex problems, and collaborating with others to create meaningful solutions. When I’m not coding, you can find me cheering for **IFK Göteborg**, playing some golf, or spending time with my family.
 
@@ -28,7 +30,7 @@ Let’s build something amazing together!
 - **Databases:** MySQL, DuckDB
 - **Data Analysis & Processing:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
-- **Tools & Platforms:** Git, FAISS, VS Code, Jupyter Notebooks, Linux
+- **Tools & Platforms:** Git, FAISS, VS Code, Jupyter Notebooks, Linux, Databricks, Azure
 - **Web Development:** HTML, CSS, JavaScript (basic frontend)
 
 ---
@@ -37,6 +39,10 @@ Let’s build something amazing together!
 **NBI Handelsakademin**  
 *Object-Oriented Programming with AI Competence*  
 _Expected graduation: Spring 2025_
+
+**Thesis (Spring 2025)**  
+*Chatbot Performance Comparison: With and Without Metadata and chunksize*  
+Explored how metadata impacts the relevance and precision of chatbot responses using Retrieval-Augmented Generation (RAG). Tested different chunking strategies and evaluated performance using data about IFK Göteborg.
 
 ---
 
@@ -54,7 +60,7 @@ _Expected graduation: Spring 2025_
 | Internship 1 CGI                            | Python, Angular           |
 | Object-oriented programming advanced 2      | Python                    |
 | Thesis                                      | Python                    |
-| Internship 2                                |                           |
+| Internship 2 Preem                          | Python, Databricks        |
 
 ---
 
@@ -64,12 +70,25 @@ _October 2024 - December 2024_
 - Designed and implemented a chatbot using RAG to enhance user experience and streamline financial processes.
 - Collaborated with cross-functional teams to create a working gen-ai chatbot.
 
+### Data Engineer Intern @ Preem  
+_March 2025 – June 2025_  
+- Working with data pipelines in Azure Databricks.
+- Modeling data from a (work permit system) and a (project planning system) to support operational analytics.  
+- Handling SQL-based transformations from operational systems like maintenance and warehouse data.  
+- Building Silver Layer datasets and preparing data for analytics and dashboarding.  
+
 ---
 
 ## <a id="projects"></a>🖥️ Projects
 ### Chatbot for Business System
 - Built a chatbot for a financial system.
 - Leveraged FAISS for efficient data retrieval.
+
+### Metadata & Chatbot Performance (Thesis Project)
+- Investigated how metadata affects the quality of chatbot responses in a RAG Chatbot.
+- Built multiple chatbot variants using FAISS and SentenceTransformers.
+- Tested on structured and unstructured football data from IFK Göteborg.
+
 
 ### Fotball Support App (Project TBC)
 - Developing an app dedicated to football fans.
