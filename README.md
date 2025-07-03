@@ -14,7 +14,7 @@
 
 ## <a id="about-me"></a>👋 About Me
 
-Hi there! I’m a curious and driven **AI/System Developer** with a knack for solving problems and building creative solutions. I’m currently finishing my studies at **NBI Handelsakademin**, where I’ve been focusing on object-oriented programming and artificial intelligence.
+Hi there! I’m a curious and driven **AI/System Developer** with a knack for solving problems and building creative solutions. I recently graduated from NBI Handelsakademin where I focused on object-oriented programming and artificial intelligence.
 
 My recent thesis explored how metadata impacts chatbot performance in RAG systems, and I’m currently interning as a **Data Engineer at Preem**, working with **Azure Databricks** to model complex business data from different systems.
 
@@ -38,7 +38,7 @@ Let’s build something amazing together!
 ## <a id="education"></a>🎓 Education
 **NBI Handelsakademin**  
 *Object-Oriented Programming with AI Competence*  
-_Expected graduation: Spring 2025_
+_Graduated: June 2025_
 
 **Thesis (Spring 2025)**  
 *Chatbot Performance Comparison: With and Without Metadata and chunksize*  
@@ -72,10 +72,9 @@ _October 2024 - December 2024_
 
 ### Data Engineer Intern @ Preem  
 _March 2025 – June 2025_  
-- Working with data pipelines in Azure Databricks.
-- Modeling data from a (work permit system) and a (project planning system) to support operational analytics.  
-- Handling SQL-based transformations from operational systems like maintenance and warehouse data.  
-- Building Silver Layer datasets and preparing data for analytics and dashboarding.  
+- Developed and maintained data pipelines in Azure Databricks using a medallion architecture.
+- Modeled and transformed business-critical data from systems like SPAN (work permit) and Primavera (project planning).
+- Created reusable ETL pipelines and built Silver Layer tables to support analytics and dashboarding.  
 
 ---
 
