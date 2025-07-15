@@ -83,6 +83,11 @@ _March 2025 – June 2025_
 - Built a chatbot for a financial system.
 - Leveraged FAISS for efficient data retrieval.
 
+### Preem: Data Engineering in Azure Databricks
+- Built reusable ETL pipelines using the Medallion architecture (Bronze → Silver → Gold).
+- Modeled and processed business-critical data from SPAN (work permit system) and Primavera (project planning system).
+- Used Python, PySpark and Delta Lake to structure data for analytics and dashboards.
+
 ### Metadata & Chatbot Performance (Thesis Project)
 - Investigated how metadata affects the quality of chatbot responses in a RAG Chatbot.
 - Built multiple chatbot variants using FAISS and SentenceTransformers.
