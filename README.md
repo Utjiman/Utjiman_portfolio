@@ -114,4 +114,4 @@ I'm looking for roles where I can leverage my skills in AI, programming, and dat
 Feel free to explore my work or connect with me on professional platforms:
 - [GitHub](https://github.com/Utjiman)
 - [LinkedIn](https://www.linkedin.com/in/richard-bod%C3%A9n-585a84130/)
-- [![Download My CV](https://img.shields.io/badge/CV-Download-blue)](https://utjiman.github.io/Utjiman_portfolio/Assets/CV_2025_V2.pdf)
+- [![Download My CV](https://img.shields.io/badge/CV-Download-blue)](https://utjiman.github.io/Utjiman_portfolio/Assets/CV_2025_v2.1_SWE.pdf)
